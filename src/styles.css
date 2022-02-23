@@ -1,1 +1,41 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
+html, body { height: 100%; }
+
+body { margin: 0; font-family: 'Roboto', "Helvetica Neue", sans-serif; }
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Open Sans';
+}
+
+/* COLORES OFICIALES */
+
+.bgAmarillo{
+    background-color: #FCC42C; 
+}.bgRojo{
+    background-color: #FC041C; 
+}.bgVerde{
+    background-color: #6CC474; 
+}.bgNegro{
+    background-color: #242424; 
+}.bgGris{
+    background-color: #646464; 
+}.bgNaranja{
+    background-color: #FC6434; 
+}
+
+.colorAmarillo{
+    color: #FCC42C; 
+}.colorRojo{
+    color: #FC041C; 
+}.colorVerde{
+    color: #6CC474; 
+}.colorNegro{
+    color: #242424; 
+}.colorGris{
+    color: #646464; 
+}.colorNaranja{
+    color: #FC6434; 
+}
